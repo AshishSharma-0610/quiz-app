@@ -87,10 +87,16 @@ This project demonstrates how to build a quiz application with gamification feat
 ### **Screenshots**
 
 #### 1. Welcome Screen:
-![Welcome Screen](assets/screenshots/welcome.png)
+![Welcome Screen](Screenshots/WelcomeScreen.jpg)
 
 #### 2. Quiz Question:
-![Quiz Question](assets/screenshots/question.png)
+![Quiz Question](Screenshots/QuizScreen.jpg)
 
 #### 3. Results Screen:
-![Results Screen](assets/screenshots/results.png)
+![Results Screen](Screenshots/ResultsScreen.jpg)
+
+### **Video Walkthrough**
+
+Watch the demo of the application:
+
+Watch the demo video here-https://drive.google.com/file/d/1sihs5G92z-BXmTVceTySlcrbvDjd0kai/view?usp=sharing
