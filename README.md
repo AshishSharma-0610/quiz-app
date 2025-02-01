@@ -34,7 +34,7 @@ To resolve this issue, a simple **Express server** is set up in the backend. The
 #### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/quiz-app.git
+git clone https://github.com/AshishSharma-0610/quiz-app.git
 cd quiz-app 
 ```
 ### **Step 2: Set up the Backend**
